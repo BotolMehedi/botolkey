@@ -24,7 +24,7 @@
 
 </p>
 
-<h1 align="center">BOTILKEY v1.0</h1>
+<h1 align="center">BOTOLKEY v1.0</h1>
 
 <p align="center">
 

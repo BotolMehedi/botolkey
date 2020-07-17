@@ -7,23 +7,14 @@
 <p align="center">
 
 <a href="#"><img title="BOTOLKEY" src="https://user-images.githubusercontent.com/64999484/87812536-262cdf00-c882-11ea-84f5-6d39ba4360d2.jpg"></a>
-
 <p align="center">
-
 <a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/Author-Botol--Mehedi-red.svg?style=for-the-badge&logo=github"></a>
-
 </p>
-
 <p align="center">
-
 <a href="https://github.com/botolmehedi/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a>
-
 <a href="https://www.youtube.com/mastertrick1"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube"></a>
-
 <a href="https://www.facebook.com/groups/231747098048450"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a>
-
 </p>
-
 <h1 align="center">BOTOLKEY v1.0</h1>
 
 <p align="center">

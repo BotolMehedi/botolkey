@@ -33,9 +33,15 @@ BotolKey is a python based script. You can use this tool for adding magic key in
 
 * pip2 install bkey
 
+* git clone https://github.com/botolmehedi/botolkey
+
 ## Tools Run :
 
-* Type 'bkey' press Enter
+* ls && cd botolkey && ls
+
+* Python2 bk.py
+
+* Or Just Type 'bkey' press Enter
 
 ## ***Follow Me***
 

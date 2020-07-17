@@ -6,9 +6,7 @@
 
 <p align="center">
 
-<a href="#"><img title="BOTOLKEY" src="https://user-images.githubusercontent.com/64999484/87812536-262cdf00-c882-11ea-84f5-6d39ba4360d2.jpg
-
-"></a>
+<a href="#"><img title="BOTOLKEY" src="https://user-images.githubusercontent.com/64999484/87812536-262cdf00-c882-11ea-84f5-6d39ba4360d2.jpg"></a>
 
 <p align="center">
 
